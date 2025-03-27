@@ -1,42 +1,44 @@
-🌍 Predicción Inteligente del Clima y Calidad del Aire en Bucaramanga
-📌 Descripción
-Este proyecto aplica Machine Learning para predecir temperatura, calidad del aire (PM10) y probabilidad de lluvia en Bucaramanga y su área metropolitana, utilizando datos del IDEAM en tiempo real.
+🌍 Intelligent Weather and Air Quality Prediction in Bucaramanga
+📌 Project Overview
+This project leverages Machine Learning to predict temperature, air quality (PM10), and rainfall probability in Bucaramanga and its metropolitan area, using real-time data from IDEAM.
 
-📊 Tecnologías y Métodos Utilizados
-✅ Procesamiento y análisis de datos: limpieza, transformación y análisis exploratorio.
-✅ Optimización de modelos predictivos: ajuste de hiperparámetros y evaluación de desempeño.
-✅ Algoritmos seleccionados por su precisión y rendimiento:
+📊 Technologies & Methods Used
+✅ Data processing & analysis: cleaning, transformation, and exploratory data analysis (EDA).
+✅ Predictive model optimization: hyperparameter tuning and performance evaluation.
+✅ Selected algorithms based on accuracy and efficiency:
 
-🔥 Random Forest para predicción de temperatura y lluvia.
+🔥 Random Forest for temperature and rainfall prediction.
 
-🌫 K-Nearest Neighbors (KNN) para predicción de calidad del aire (PM10).
-✅ Despliegue interactivo con Streamlit, facilitando la visualización de predicciones.
+🌫 K-Nearest Neighbors (KNN) for air quality (PM10) prediction.
+✅ Interactive deployment with Streamlit for easy visualization of predictions.
 
-🚀 Resultados e Impacto
-🔹 Modelos entrenados con datos reales para mejorar la toma de decisiones ambientales.
-🔹 Implementación eficiente, logrando el mejor balance entre precisión y rendimiento computacional.
-🔹 Potencial aplicación en monitoreo ambiental, planificación urbana y respuesta a emergencias climáticas.
+🚀 Results & Impact
+🔹 Trained models using real-world data for better environmental decision-making.
+🔹 Optimized implementation, achieving the best balance between accuracy and computational performance.
+🔹 Potential applications in environmental monitoring, urban planning, and emergency response.
 
-💻 Ejecución del Proyecto
+💻 How to Run the Project
 
-Clona este repositorio:
+Clone this repository:
 
 bash
 Copiar
 Editar
-git clone https://github.com/tu_usuario/air3.git
+git clone https://github.com/your_username/air3.git
 cd air3
-Instala las dependencias:
+Install dependencies:
 
 bash
 Copiar
 Editar
 pip install -r requirements.txt
-Ejecuta la aplicación con Streamlit:
+Run the Streamlit application:
 
 bash
 Copiar
 Editar
 streamlit run app.py
-📎 Contacto
-Si tienes preguntas o sugerencias, ¡estaré encantado de hablar! 
+📎 Contact
+If you have any questions or suggestions, feel free to reach out! You can find me on [your email or LinkedIn].
+
+
